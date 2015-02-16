@@ -1,2 +1,4 @@
 tmp*
 *.py[cod]
+rss.html
+__pycache__/
