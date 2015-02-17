@@ -1,0 +1,4 @@
+This is a small RSS collector.
+It gets RSS files from RSS-list, parses them and makes html-file with RSS messages from RSS files sorted by pubDate. It displays only 50 newest messages.
+
+URL list from file constants.py determines what links should be scaned.
